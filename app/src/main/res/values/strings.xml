@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MobileCompProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_help">Help</string>
+    <string name="see">I can see:</string>
+    <string name="str1">1. Assess the situation</string>
+    <string name="str2">2. If the situation does not appear to be dangerous for you, try to calm down the involved parties</string>
+    <string name="str3">3. If there seems to be immediately risk of physical violence, do not hesitate to contact appropriate authorities</string>
+    <string name="str4">4. If you can\'t find immediately assistance by authorities, try to look for any help you can find around</string>
+    <string name="str5">5. Try to call for reason, but don\'t act on your own, if you can get hurt</string>
+    <string name="phone_msg">Phone Contact (Click to call):</string>
+    <string name="chalk_desc">Dr. Dannie Chalk: Assistance with mentoring, conflict resolution and emotional trauma.</string>
+    <string name="chalk_loc">AUBG Office Location: Main Building, Room 255. Meeting with appointment.</string>
+    <string name="chalk_phone">(+359 73) 888 406</string>
+    <string name="violence">Threat of Violence</string>
+    <string name="weapons">Weapon on Campus</string>
+    <string name="ilko_desc">Ilko Drenkov: Assistance with on-campus and residence halls problems.</string>
+    <string name="ilko_loc">AUBG Office Location: Skaptopara 2, Room 2120. Hours: 3PM-8PM, 9PM-12PM.</string>
+    <string name="ilko_phone">(+359 73) 888 542</string>
+    <string name="get_help">Get Help!</string>
+    <string name="police_desc">Blagoevgrad Police: Dealing with all kinds of criminal issues or activities.</string>
+    <string name="police_loc">Location: Blagoevgrad Police Department, Vlado Chernozemski St 3, Blagoevgrad. Working 24/7.</string>
+    <string name="police_phone">+359 73 235 61</string>
+    <string name="security_desc">Campus Security: Immediate On-Campus Assistance</string>
+    <string name="security_loc">Location: Front Desk of Skapto 1, 2, 3, BAC, ABF and Main Building</string>
+    <string name="security_phone">0883402048</string>
+    <string name="security">Campus Security</string>
+    <string name="police">Police Department</string>
+    <string name="prof_assist">Professor Assistance</string>
+    <string name="hall_assist">Residence Hall Assistance</string>
+    <string name="contacts">Contacts for assistance:</string>
+    <string name="howto1">How to deal with threats of violence:</string>
+    <string name="howto2">How to deal with dangers of weapons on campus</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
